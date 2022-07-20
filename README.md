@@ -1,4 +1,4 @@
-## Oi eu sou a Murilo da Silva Riba, criador de conteúdo de programação e tecnologia!
+## Oi eu sou a Murilo da Silva Riba, desenvolvedor e programador de tecnologia!
 <div align="center">
   <a href="https://github.com/murilodevsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilodevsilva&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
