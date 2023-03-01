@@ -1,6 +1,7 @@
 ## Oi eu sou a Murilo Silva, desenvolvedor Front-end web e mobile!
 ##
 ### Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
+##
 <div align="center">
   <a href="https://github.com/murilodevsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilodevsilva&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
